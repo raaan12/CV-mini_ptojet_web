@@ -1,0 +1,36 @@
+html
+{
+	background-color: #FFB9B9;
+
+}
+
+h2
+{
+    font-size: 2em;
+}
+
+ul
+{
+	
+	list-style-image:url(./bullet.gif);
+	
+}
+img{
+    height: 200px;
+    border-radius: 500px;
+}
+p {
+    font-size:11px;
+    margin:5px 0 5px;
+    text-align:justify;
+    }
+
+    a:link, a:visited {
+        color:#319FFF;
+        text-decoration:none;
+        }
+        
+        a:hover {
+        color:#726F61;
+        text-decoration:none;
+        }
